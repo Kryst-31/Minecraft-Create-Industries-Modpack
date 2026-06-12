@@ -1,2 +1,5 @@
 # NeoForge Installers
 *-installer.jar
+
+installer/obj/
+installer/bin/
