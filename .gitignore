@@ -1,5 +1,4 @@
-# NeoForge Installers
-*-installer.jar
-
-installer/obj/
-installer/bin/
+mods
+mods-backup
+updater.exe
+github-manifest.json
